@@ -25,7 +25,7 @@ This project calculates Body Mass Index (BMI) based on height and weight and ins
 
 ## Live Demo
 
-🔗 [Live Demo](bmi-generator-fx87uqqhk-rohit12412021s-projects.vercel.app)
+🔗 [Live Demo](https://bmi-generator-beta.vercel.app/)
 
 ---
 
